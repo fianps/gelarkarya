@@ -13,3 +13,5 @@ Gelar Karya is a website developed using the Laravel framework to fulfill all th
 Gelar Karya aims to simplify the management of the competition and provide a better experience for participants, judges, and organizers.
 
 ## Sneak Peek of Gelar Karya
+
+![image](https://github.com/fianps/gelarkarya/assets/90088063/c914321b-65a0-41a1-9876-817fe54114ef)
